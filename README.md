@@ -2,6 +2,7 @@
 This repository documents my learning journey during the initial days of my internship at Nuclei. Each day's folder contains code implementations of concepts I studied, covering topics assigned for self-learning.
 
 ## 📂 Repository Structure
+```
 Nuclei-Internship-Learning/
 │── README.md
 │── Day-01/
@@ -10,7 +11,7 @@ Nuclei-Internship-Learning/
 │── Day-02/
 │   ├── Concept1.java
 │── ...
-
+```
 - Each folder represents a day's learning.
 - Files inside contain Java implementations of assigned topics.
 
